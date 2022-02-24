@@ -1,1 +1,6 @@
-console.log(merhaba)
+console.log("log")
+console.log("log")
+console.log("log")
+console.log("log")
+console.log("log")
+console.log("log")
